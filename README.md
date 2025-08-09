@@ -26,7 +26,14 @@ This project collects the weight from the sensor and then sends it to the transm
 1) Integrating an LCD/TFT display for more detailed data.
 2) Adding wireless logging to a PC or cloud server.
 
-#**Team:**
+**How To Run?**
+1) Clone the repository: git clone https://github.com/DudalaSantosh/Weighing-of-High-loads.git
+2) Install the STM32 Cube IDE and add the necessary library files.
+3) Add the receiver, transmitter, and the ADC code to the workspace in the STM32 Cube IDE.
+4) Build the project and thereby connect the ST-Link to the PC, and power on both modules.
+5) Run the project; the code is uploaded to the prototype or the PCB.
+
+**Team:**
 
 **Authors:** Santosh Dudala & Nibesh Sahu
 
