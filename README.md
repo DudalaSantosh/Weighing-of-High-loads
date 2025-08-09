@@ -28,4 +28,5 @@ This project collects the weight from the sensor and then sends it to the transm
 
 **Team:**
 Authors: Santosh Dudala & Nibesh Sahu
+
 Guide: Dr.Nijwm Wary
