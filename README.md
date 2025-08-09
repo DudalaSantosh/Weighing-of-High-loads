@@ -18,6 +18,7 @@ iv) Real-time weight will be displayed on the seven-segment display.
 1)STM32 Cube IDE for the coding of the ADC, Transmitter, and Receiver boards.
 **Block Diagram:**
 <img width="540" height="171" alt="image" src="https://github.com/user-attachments/assets/572679ca-ef87-47ca-a7ce-cce4a89db20f" />
+
 **Future Improvements:**
 1) Integrating an LCD/TFT display for more detailed data.
 2) Adding wireless logging to a PC or cloud server.
