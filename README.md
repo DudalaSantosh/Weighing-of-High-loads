@@ -27,5 +27,7 @@ This project collects the weight from the sensor and then sends it to the transm
 2) Adding wireless logging to a PC or cloud server.
 
 **Team:**
+
 **Authors:** Santosh Dudala & Nibesh Sahu
+
 **Guide:** Dr.Nijwm Wary
