@@ -1,0 +1,5 @@
+../Core/Src/max232.c:2:19:MX485_Init	3
+../Core/Src/max232.c:22:13:MX485_EnableTx	1
+../Core/Src/max232.c:30:13:MX485_EnableRx	1
+../Core/Src/max232.c:38:19:MX485_Transmit	4
+../Core/Src/max232.c:58:19:MX485_Receive	3

@@ -1,0 +1,12 @@
+../Core/Src/max232.c:9:13:MX485_EnableRx	0	static
+../Core/Src/max232.c:14:19:MX485_Init	8	static
+../Core/Src/max232.c:30:19:MX485_Transmit	16	static
+../Core/Src/max232.c:42:19:MX485_Receive	16	static
+../Core/Src/max232.c:51:19:MX485_Transmit_IT	16	static
+../Core/Src/max232.c:60:19:MX485_Receive_IT	16	static
+../Core/Src/max232.c:69:19:MX485_Transmit_DMA	16	static
+../Core/Src/max232.c:78:19:MX485_Receive_DMA	16	static
+../Core/Src/max232.c:88:6:HAL_UART_TxCpltCallback	0	static
+../Core/Src/max232.c:96:6:HAL_UART_TxHalfCpltCallback	0	static
+../Core/Src/max232.c:97:6:HAL_UART_RxCpltCallback	0	static
+../Core/Src/max232.c:98:6:HAL_UART_ErrorCallback	0	static
